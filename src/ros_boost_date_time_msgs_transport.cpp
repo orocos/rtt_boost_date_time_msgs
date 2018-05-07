@@ -1,3 +1,6 @@
+// might define BOOST_DATE_TIME_POSIX_TIME_STD_CONFIG
+#include <rtt/rtt-config.h>
+
 #include <boost_date_time_msgs/boost/Ptime.h>
 #include <boost_date_time_msgs/boost/TimeDuration.h>
 
